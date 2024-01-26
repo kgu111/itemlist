@@ -2,267 +2,267 @@
 	"incitems" : [
 	{
 		"abr": "Hello",
-		"price": 800,
+		"price": 1,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "Jun,",
-		"price": 2600,
+		"price": 2,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "I",
-		"price": 400,
+		"price": 3,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "made",
-		"price": 350,
+		"price": 4,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "this",
-		"price": 650,
+		"price": 5,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "just",
-		"price": 300,
+		"price": 6,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "for",
-		"price": 250,
+		"price": 7,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "you.",
-		"price": 450,
+		"price": 8,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "I",
-		"price": 350,
+		"price": 9,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "think",
-		"price": 450,
+		"price": 10,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "I",
-		"price": 300,
+		"price": 11,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "want",
-		"price": 750,
+		"price": 12,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "to",
-		"price": 400,
+		"price": 13,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "get",
-		"price": 800,
+		"price": 14,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "to",
-		"price": 500,
+		"price": 15,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "know",
-		"price": 500,
+		"price": 16,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "you",
-		"price": 6500,
+		"price": 17,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "better.",
-		"price": 3200,
+		"price": 18,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "Can",
-		"price": 450,
+		"price": 19,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "we",
-		"price": 200,
+		"price": 20,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "start",
-		"price": 700,
+		"price": 21,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "as",
-		"price": 150,
+		"price": 22,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "friends",
-		"price": 300,
+		"price": 23,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "if",
-		"price": 275,
+		"price": 24,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "it",
-		"price": 350,
+		"price": 25,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "does",
-		"price": 150,
+		"price": 26,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "take",
-		"price": 350,
+		"price": 27,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "us",
-		"price": 200,
+		"price": 28,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "somewhere",
-		"price": 400,
+		"price": 29,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "further",
-		"price": 250,
+		"price": 30,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "than",
-		"price": 150,
+		"price": 31,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "that",
-		"price": 200,
+		"price": 32,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "then",
-		"price": 400,
+		"price": 33,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "so",
-		"price": 300,
+		"price": 34,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "be",
-		"price": 500,
+		"price": 35,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "it",
-		"price": 300,
+		"price": 36,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "but",
-		"price": 80,
+		"price": 37,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "I",
-		"price": 200,
+		"price": 38,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "want",
-		"price": 200,
+		"price": 39,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "to",
-		"price": 400,
+		"price": 40,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "take",
-		"price": 600,
+		"price": 41,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "things",
-		"price": 1900,
+		"price": 42,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "slowly",
-		"price": 2400,
+		"price": 43,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "and",
-		"price": 700,
+		"price": 44,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "carefully",
-		"price": 1500,
+		"price": 45,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "so",
-		"price": 1500,
+		"price": 46,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "how",
-		"price": 1500,
+		"price": 47,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "about",
-		"price": 2500,
+		"price": 48,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "it?",
-		"price": 2500,
+		"price": 49,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "Love",
-		"price": 2500,
+		"price": 50,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "from",
-		"price": 1500,
+		"price": 51,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "Mark",
-		"price": 2500,
+		"price": 52,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "<3 xxxx",
-		"price": 1000,
+		"price": 53,
 		"karmatype": "Bad"
 	},
 	
