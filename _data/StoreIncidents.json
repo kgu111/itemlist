@@ -1,272 +1,440 @@
 {
 	"incitems" : [
 	{
-		"abr": "Hello",
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "clearweather",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drythunderstorm",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "heatwave",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "coldsnap",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "toxicfallout",
+		"price": 6500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "volcanicwinter",
+		"price": 3200,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "eclipse",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "aurora",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "blight",
+		"price": 700,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "resourcepodcrash",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "tradercaravan",
+		"price": 275,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "meteor",
+		"price": 150,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "madanimal",
+		"price": 200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ambrosiasprout",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "herdmigration",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "farmanimals",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "shipchunkdrop",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "travelergroup",
+		"price": 80,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitorgroup",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "skillincrease",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "alphabeavers",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpoison",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "manhunterpack",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "randomdisease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
 		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "levelskill",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "trait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitcolony",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 1200,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "Jun,",
-		"price": 2,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "I",
-		"price": 3,
+		"abr": "sanctuary",
+		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "made",
-		"price": 4,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "this",
-		"price": 5,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "just",
-		"price": 6,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "for",
-		"price": 7,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "you.",
-		"price": 8,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "I",
-		"price": 9,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "think",
-		"price": 10,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "I",
-		"price": 11,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "want",
-		"price": 12,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "to",
-		"price": 13,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "get",
-		"price": 14,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "to",
-		"price": 15,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "know",
-		"price": 16,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "you",
-		"price": 17,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "better.",
-		"price": 18,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "Can",
-		"price": 19,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "we",
-		"price": 20,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "start",
-		"price": 21,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "as",
-		"price": 22,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "friends",
-		"price": 23,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "if",
-		"price": 24,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "it",
-		"price": 25,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "does",
-		"price": 26,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "take",
-		"price": 27,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "us",
-		"price": 28,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "somewhere",
-		"price": 29,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "further",
-		"price": 30,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "than",
-		"price": 31,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "that",
-		"price": 32,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "then",
-		"price": 33,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "so",
-		"price": 34,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "be",
-		"price": 35,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "it",
-		"price": 36,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "but",
-		"price": 37,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "I",
-		"price": 38,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "want",
-		"price": 39,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "to",
-		"price": 40,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "take",
-		"price": 41,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "things",
-		"price": 42,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "slowly",
-		"price": 43,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "and",
-		"price": 44,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "carefully",
-		"price": 45,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "so",
-		"price": 46,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "how",
-		"price": 47,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "about",
-		"price": 48,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "it?",
-		"price": 49,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "Love",
-		"price": 50,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "from",
-		"price": 51,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "Mark",
-		"price": 52,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "<3 xxxx",
-		"price": 53,
-		"karmatype": "Bad"
-	},
-	
-	
+	}
 	],
 	"total": 87
 }
