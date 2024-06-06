@@ -9,7 +9,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.3"
+    "version": "11.0.4"
   },
   {
     "author": "void",
@@ -87,7 +87,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.7.5.0"
+    "version": "3.0.4.0"
   },
   {
     "author": "Dubwise",
@@ -99,12 +99,18 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8888.40976"
+    "version": "1.0.8911.30668"
   },
   {
     "author": "Dubwise",
     "name": "Dubs Break Mod",
     "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
     "version": "1.0.0"
   },
   {
@@ -132,22 +138,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.5.0.3"
-  },
-  {
     "author": "Falconne",
     "name": "Labels on Floor",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "krafs",
+    "name": "Level Up!",
+    "steamId": "1701592470",
+    "version": "1.0.0+9c9848ace7fcba915ec9d1b2614d8f5d0e795e49"
   },
   {
     "author": "m00nl1ght",
@@ -165,7 +165,7 @@
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+95ec9690cd4718497cce37895c696f2ba4705911"
+    "version": "1.0.0+7f1f92dd38f72e2b1fbbf0817a486fea38fdc6ae"
   },
   {
     "author": "Neceros (Original) and Chris",
@@ -174,16 +174,34 @@
     "version": null
   },
   {
+    "author": "Ogre",
+    "name": "Nano Repair Tech",
+    "steamId": "1447372624",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "tkkntkkn",
     "name": "Nature's Pretty Sweet (Continued)",
     "steamId": "2532618635",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "Vesper",
     "name": "Not My Fault",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "Personalities: RPG Alignments",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist Temporary 1.5 Update",
+    "steamId": "2880823401",
+    "version": "2.9.140"
   },
   {
     "author": "Mort Strudel",
@@ -198,6 +216,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
+  },
+  {
+    "author": "mastertea",
+    "name": "RandomPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "mr.teterew",
     "name": "Real Ruins",
     "steamId": "1552146295",
@@ -208,6 +238,12 @@
     "name": "Realistic Rooms Rewritten",
     "steamId": "2558042766",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Reminders",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -231,13 +267,19 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "3.0.0.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "jptrrs",
     "name": "SpeakUp",
     "steamId": "2502518544",
     "version": "0.8"
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Scurvyez",
@@ -264,6 +306,12 @@
     "version": null
   },
   {
+    "author": "Echo The Wanderer",
+    "name": "Toxic Wastepack Generator Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -280,6 +328,12 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -388,6 +442,24 @@
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
     "version": "1.7.7368"
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
     "author": "Dubwise",

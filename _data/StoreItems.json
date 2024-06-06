@@ -4496,7 +4496,7 @@
 	},
 	{
 		"abr": "blizzariskclutchmother",
-		"price": 1500,
+		"price": 15000,
 		"category": "Animals",
 		"defname": "AA_BlizzariskClutchMother"
 	},
@@ -4520,7 +4520,7 @@
 	},
 	{
 		"abr": "summitcrab",
-		"price": 2500,
+		"price": 250000,
 		"category": "Animals",
 		"defname": "AA_SummitCrab"
 	},
@@ -4640,7 +4640,7 @@
 	},
 	{
 		"abr": "dunealiskclutchmother",
-		"price": 1500,
+		"price": 15000,
 		"category": "Animals",
 		"defname": "AA_DunealiskClutchMother"
 	},
@@ -4694,7 +4694,7 @@
 	},
 	{
 		"abr": "feraliskclutchmother",
-		"price": 1500,
+		"price": 15000,
 		"category": "Animals",
 		"defname": "AA_FeraliskClutchMother"
 	},
@@ -4760,7 +4760,7 @@
 	},
 	{
 		"abr": "fungalhusk",
-		"price": 250,
+		"price": 250000,
 		"category": "Animals",
 		"defname": "AA_FungalHusk"
 	},
@@ -8591,7 +8591,79 @@
 		"price": 137,
 		"category": "Furniture",
 		"defname": "Shelf_WeaponRack"
+	},
+	{
+		"abr": "nanotechanimalbed",
+		"price": 205,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_AnimalBed"
+	},
+	{
+		"abr": "nanotechanimalsleepingbox",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_AnimalSleepingBox"
+	},
+	{
+		"abr": "nanotechbed",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_Bed"
+	},
+	{
+		"abr": "nanotechdoublebed",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_DoubleBed"
+	},
+	{
+		"abr": "nanotechfuel",
+		"price": 1,
+		"category": "Manufactured",
+		"defname": "Ogre_NanoTechFuel"
+	},
+	{
+		"abr": "nanotechfuelbase",
+		"price": 1,
+		"category": "Manufactured",
+		"defname": "Ogre_NanoTechFuelBase"
+	},
+	{
+		"abr": "nanotechhospitalbed",
+		"price": 725,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_HospitalBed"
+	},
+	{
+		"abr": "nanotechroyalbed",
+		"price": 1608,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_RoyalBed"
+	},
+	{
+		"abr": "nanotechshelf(1x1)",
+		"price": 124,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_1x1_Shelf"
+	},
+	{
+		"abr": "nanotechshelf(2x1)",
+		"price": 175,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_2x1_Shelf"
+	},
+	{
+		"abr": "portablepolutionpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "PortablePolutionPoweredGenerator"
+	},
+	{
+		"abr": "toxicwastebin",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "EW_WasteBin"
 	}
 	],
-	"total": 1432
+	"total": 1445
 }
