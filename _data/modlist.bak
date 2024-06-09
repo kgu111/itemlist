@@ -87,7 +87,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.0.4.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "Dubwise",
@@ -302,6 +302,12 @@
   {
     "author": "Sam",
     "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Echo The Wanderer",
+    "name": "Toxic Wastepack Generator Plus",
     "steamId": null,
     "version": null
   },

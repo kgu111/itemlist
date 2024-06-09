@@ -87,7 +87,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.0.4.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "Dubwise",
@@ -472,6 +472,12 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.9.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
