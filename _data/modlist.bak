@@ -72,6 +72,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "NECEROS and forked by Skelly",
+    "name": "Balanced Eclipse and Solar Flare - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
@@ -87,7 +93,13 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.1.0.0"
+    "version": "3.2.0.0"
+  },
+  {
+    "author": "Alias, SirHumphreyAppleby, Syrchalis and Latta",
+    "name": "Doormats",
+    "steamId": "",
+    "version": "1.0.0.0"
   },
   {
     "author": "Dubwise",
@@ -153,7 +165,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.14.0"
+    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
   },
   {
     "author": "Supes",
@@ -165,7 +177,7 @@
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+7f1f92dd38f72e2b1fbbf0817a486fea38fdc6ae"
+    "version": "1.0.0+43d2012da4c798f28fb9a87a944f5c859a81373b"
   },
   {
     "author": "Neceros (Original) and Chris",
@@ -183,7 +195,7 @@
     "author": "tkkntkkn",
     "name": "Nature's Pretty Sweet (Continued)",
     "steamId": "2532618635",
-    "version": "1.5.1"
+    "version": "1.5.3"
   },
   {
     "author": "Vesper",
@@ -298,6 +310,12 @@
     "name": "TD Find Lib",
     "steamId": "2895299310",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Terraform Rimworld",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sam",
@@ -453,7 +471,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.5.0.3"
+    "version": "1.5.0.4"
   },
   {
     "author": "Mehni",
@@ -472,6 +490,18 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.9.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
