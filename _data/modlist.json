@@ -42,6 +42,12 @@
     "version": "1.0.0.0+1dc8fcf8241a873b812f073ed6ee07eb5dad83bf"
   },
   {
+    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.9034.22423"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -96,6 +102,12 @@
     "version": "3.2.0.0"
   },
   {
+    "author": "We're in Heaven",
+    "name": "Colony Manager Fork",
+    "steamId": "3262932412",
+    "version": "1.5"
+  },
+  {
     "author": "Alias, SirHumphreyAppleby, Syrchalis and Latta",
     "name": "Doormats",
     "steamId": "",
@@ -132,10 +144,22 @@
     "version": "1.2.7365"
   },
   {
+    "author": "Erin",
+    "name": "Erin's Cottage Collection",
+    "steamId": "2977561141",
+    "version": "1.0.8866.27181"
+  },
+  {
+    "author": "ThatHitmann",
+    "name": "Geneva Checklist",
+    "steamId": "3339044171",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.10.0"
+    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
   },
   {
     "author": "Smash Phil",
@@ -162,10 +186,22 @@
     "version": "1.0.0+9c9848ace7fcba915ec9d1b2614d8f5d0e795e49"
   },
   {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
+    "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
   },
   {
     "author": "Supes",
@@ -177,13 +213,25 @@
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+43d2012da4c798f28fb9a87a944f5c859a81373b"
+    "version": "1.0.0+cbb58fe49c8713f1d165caf0b4cac48b1ec137b7"
   },
   {
     "author": "Neceros (Original) and Chris",
     "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "2.4.231"
   },
   {
     "author": "Ogre",
@@ -195,13 +243,19 @@
     "author": "tkkntkkn",
     "name": "Nature's Pretty Sweet (Continued)",
     "steamId": "2532618635",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "author": "Vesper",
     "name": "Not My Fault",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
   },
   {
     "author": "Hahkethomemah",
@@ -232,6 +286,12 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.18"
+  },
+  {
+    "author": "Malte Schulze",
+    "name": "RIMMSqol",
+    "steamId": "1084452457",
+    "version": "1.0.9048.36329"
   },
   {
     "author": "mastertea",
@@ -274,6 +334,12 @@
     "name": "RimPy Mod Manager Database",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
   },
   {
     "author": "Jaxe",
@@ -324,8 +390,26 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Canon",
+    "name": "Titular Royalty",
+    "steamId": "2838668305",
+    "version": "1.0.0+e9d9328490b543dca1bff41245be42a5d56c248e"
+  },
+  {
     "author": "Echo The Wanderer",
     "name": "Toxic Wastepack Generator Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ww9",
+    "name": "Transport Pod MK2 (Continued)",
     "steamId": null,
     "version": null
   },
@@ -366,12 +450,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
     "name": "Vanilla Factions Expanded - Settlers",
     "steamId": "2052918119",
@@ -386,12 +464,6 @@
   {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg",
-    "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
   },
@@ -426,6 +498,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson",
     "name": "Vanilla Textures Expanded - Variations",
     "steamId": null,
@@ -442,12 +520,6 @@
     "name": "Vanilla Vehicles Expanded - Tier 3",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
   },
   {
     "author": "YAYO",
@@ -478,6 +550,12 @@
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.5.0.4"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",

@@ -131,11 +131,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 35000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -223,12 +218,12 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
@@ -241,9 +236,9 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "mechanoidraid",
+		"abr": "imadickhead",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -276,6 +271,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -292,7 +292,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 6,
 		"karmatype": "Neutral"
 	},
 	{
