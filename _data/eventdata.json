@@ -127,7 +127,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "toxicfallout": {
+  "amy": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -391,7 +391,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "imadickhead": {
+  "mechanoidraid": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
