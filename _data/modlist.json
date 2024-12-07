@@ -156,12 +156,6 @@
     "version": "1.0.3"
   },
   {
-    "author": "pphhyy",
-    "name": "URMC",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "althsuA",
     "name": "Malang More Faces: Another++",
     "steamId": null,
@@ -195,6 +189,36 @@
     "author": "ghastlyskull",
     "name": "Robotic Servitude",
     "steamId": "3354770139",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
     "version": "0.0.0.0"
   },
   {
@@ -262,30 +286,6 @@
     "name": "Vanilla Factions Expanded - Ancients",
     "steamId": "2654846754",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki",
@@ -372,12 +372,6 @@
     "version": "3.1.0.0"
   },
   {
-    "author": "Linkolas",
-    "name": "Stabilize",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
@@ -436,6 +430,12 @@
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Rah",
+    "name": "Rah's Vanilla Turrets Expansion",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RimWorld-CrowdControl",
@@ -538,5 +538,29 @@
     "name": "Red's Performance Fixes (aka. Comp EggLayer Fix)",
     "steamId": "3343465955",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Armors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Melee",
+    "steamId": null,
+    "version": null
   }
 ]
