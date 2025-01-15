@@ -12,7 +12,7 @@
 	},
 	{
 		"abr": "clearweather",
-		"price": 400,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
@@ -217,22 +217,22 @@
 	},
 	{
 		"abr": "raid",
-		"price": 10000,
+		"price": 1500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 10000,
+		"price": 1500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 10000,
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 10000,
+		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
@@ -252,12 +252,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
+		"price": 20000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "disease",
-		"price": 20000,
+		"price": 60000,
 		"karmatype": "Doom"
 	},
 	{
