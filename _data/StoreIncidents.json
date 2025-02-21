@@ -42,23 +42,18 @@
 	},
 	{
 		"abr": "snowgentle",
-		"price": 350,
+		"price": 10000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
-		"karmatype": "Bad"
+		"price": 10000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "fog",
 		"price": 300,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "heatwave",
-		"price": 750,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "flashstorm",
@@ -67,22 +62,12 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 10000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "shortcircuit",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 20000,
 		"karmatype": "Doom"
 	},
 	{
@@ -94,11 +79,6 @@
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
@@ -426,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 81
 }
