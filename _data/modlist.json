@@ -1,285 +1,9 @@
 [
   {
-    "author": "Andreas Pardeike",
-    "name": "Harmony",
-    "steamId": "2009463077",
-    "version": "2.3.1.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.3"
-  },
-  {
-    "author": "Grizzlemethis",
-    "name": "[GMT] Trading Spot",
-    "steamId": "2874517333",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Animation (Continued)",
-    "steamId": "2877292196",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": "753498552",
-    "version": "1.5.0.8"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.2.7365"
-  },
-  {
-    "author": "Gege",
-    "name": "Xenotype Xenogerms (Continued)",
-    "steamId": "3272195098",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.4.1.0"
-  },
-  {
-    "author": "plaxen",
-    "name": "Malang Bodies ",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
-    "author": "althsuA",
-    "name": "Malang More Faces: Another++",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "2890901044",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Break Mod",
-    "steamId": "1722398508",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Lucifer",
-    "name": "Realistic Rooms Rewritten",
-    "steamId": "2558042766",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "AobaKuma OttersHoldHands iforgotmysocks",
-    "name": "Camping Tent",
-    "steamId": "2407128339",
-    "version": "2.2.0.0"
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": "2193152410",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Erin and Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Endangered",
-    "steamId": "2366589898",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Animals Expanded",
-    "steamId": "2871933948",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Falconne",
-    "name": "Heat Map",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Map Preview",
-    "steamId": "2800857642",
-    "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Core",
-    "steamId": "2260097569",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Boiling",
-    "steamId": "2981924439",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Aspen",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dhultgren",
-    "name": "Smarter Construction",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Linkolas",
-    "name": "Stabilize",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.5.10.0"
-  },
-  {
-    "author": "Indeed",
-    "name": "Stack XXL",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Weilbyte",
-    "name": "Snap Out!",
-    "steamId": "1319782555",
-    "version": "0.9.0"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "Hunt for Me",
-    "steamId": "1593245720",
-    "version": "3.5.6.0"
-  },
-  {
     "author": "RimWorld-CrowdControl",
     "name": "RimWorld CrowdControl",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
-    "steamId": "3239583412",
-    "version": "1.5.0.1"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.5.0"
-  },
-  {
-    "author": "ThatHitmann",
-    "name": "Geneva Checklist",
-    "steamId": "3339044171",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Aelanna",
-    "name": "Corpse Cleanup",
-    "steamId": "3047191756",
-    "version": "1.0.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -288,32 +12,8 @@
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Arid",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Boreal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Extinct Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: ReTextures",
-    "steamId": "3205381921",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "ReGrowth: Tundra",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Tribal",
     "steamId": null,
     "version": null
   },
@@ -325,7 +25,31 @@
   },
   {
     "author": "Helixien",
-    "name": "ReGrowth: Swamp",
+    "name": "ReGrowth: Tundra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheSimpleDude42",
+    "name": "Tools O' Plenty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize",
     "steamId": null,
     "version": null
   },
@@ -336,44 +60,50 @@
     "version": null
   },
   {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Skills Expanded",
-    "steamId": "3400246558",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sandy",
-    "name": "RPG Style Inventory",
-    "steamId": "1561221991",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "TheSimpleDude42",
-    "name": "Tools O' Plenty",
+    "author": "Helixien",
+    "name": "ReGrowth: Swamp",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.1.1"
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "3219596926",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Adaptive Storage",
+    "author": "Helixien",
+    "name": "ReGrowth: Extinct Animals",
     "steamId": null,
     "version": null
   },
   {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul: House Roxmont",
+    "author": "Helixien",
+    "name": "ReGrowth: Boreal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Aspen",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Arid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "plaxen",
+    "name": "Malang Bodies ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "plaxen",
+    "name": "Malang More Faces: Another",
     "steamId": null,
     "version": null
   },
@@ -384,8 +114,50 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
+    "author": "Falconne",
+    "name": "Heat Map",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "althsuA",
+    "name": "Malang More Faces: Another++",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
     "steamId": null,
     "version": null
   }
