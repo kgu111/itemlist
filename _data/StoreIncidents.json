@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 35000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
-		"price": 55000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "clearweather",
 		"price": 10000,
 		"karmatype": "Good"
@@ -178,16 +168,6 @@
 	{
 		"abr": "alphabeavers",
 		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -406,5 +386,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 81
+	"total": 77
 }
