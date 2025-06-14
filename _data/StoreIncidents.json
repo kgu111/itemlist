@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -182,12 +182,12 @@
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
@@ -197,8 +197,8 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 10000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -292,7 +292,7 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
